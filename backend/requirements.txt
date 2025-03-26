@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+aiohttp
+pydantic
+python-jose
+passlib[bcrypt]
+psycopg2-binary
+httpx
